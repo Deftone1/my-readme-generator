@@ -1,8 +1,8 @@
 
- # Paul's Project!
+ # sammy
  # Readme Generator
  ## Description 
-  > It's paul's project.
+  > whales
  ## Table of contents
   - [Description](#Description) 
   - [Installation](#Installation)
@@ -12,14 +12,14 @@
   - [Test](#Test)
   - [Repository](#Repository)
  ## Installation
-  > I installed it with love, and care.
+  > stufying whales
  ## Usage
-  > Using it now...
+  > underwater photos
  ## Contributors
-  > I'd love further contributions!
+  > Well, I imagined WAY more Bulent in my stored answers.
  ## License
     Unlicensed
  ## Test
-  > Testing it now.......
+  > none
  ## Repository
   - [Project Repository](undefined)
